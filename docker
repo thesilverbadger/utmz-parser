@@ -1,0 +1,1 @@
+docker run --name utmz-parser -p 8080:80 -v /Users/tom/Code/static/utmz_parser:/usr/share/nginx/html:ro -d nginx
